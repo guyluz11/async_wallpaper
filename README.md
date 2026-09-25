@@ -57,7 +57,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  async_wallpaper: ^2.1.0
+  async_wallpaper: ^2.2.0
 ```
 
 ### 2. Install it

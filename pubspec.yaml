@@ -1,22 +1,22 @@
 name: async_wallpaper
 description: Set wallpapers on Android asynchronously. Also supports video live wallpapers. Use this, when you want to set a wallpaper on Android without a delay or blocking your whole app.
-version: 2.1.0
+version: 2.2.0
 homepage: https://hashstudios.dev
 repository: https://github.com/codenameakshay/async_wallpaper
 
 environment:
-  sdk: ">=2.12.0 <4.0.0"
-  flutter: ">=1.20.0"
+  sdk: ">=3.12.0 <4.0.0"
+  flutter: ">=3.44.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  fluttertoast: ^8.2.1
+  fluttertoast: ^10.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

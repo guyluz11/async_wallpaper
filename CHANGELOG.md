@@ -1,3 +1,9 @@
+## 2.2.0
+
+* Require Flutter 3.44 and Dart 3.12
+* Update fluttertoast to 10.0.0 and flutter_lints to 6.0.0
+* Update the example app dependencies, including dynamic_color 2
+
 ## 2.1.0
 
 * Fix Android 14 crash in apply methods
